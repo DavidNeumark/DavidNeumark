@@ -5,5 +5,8 @@ Badge](https://img.shields.io/badge/-DavidNeumark-blue?style=flat&logo=Linkedin&
 <br>
 Welcome to my profile! I'm a Elixir / Flutter developer from Israel. I'm currently working on Wepy as a Full Stack Engineer.<br>
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidNeumark)](https://github.com/DavidNeumark/github-readme-stats)
+<br>
+[My website](david-neumark.com)
+<br>
 Thanks for visiting and [connect](https://www.linkedin.com/in/david-neumark/)!
 
